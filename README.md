@@ -2,7 +2,7 @@
 
 Instructors: [John Serences](mailto:jserences@ucsd.edu) and [Daniela Cassataro](mailto:dcassata@ucsd.edu)
 
-Time/Location: 1-3:50  Mandler 3545 
+Time/Location: Monday 1-3:50  Mandler 3545 
 
 ## Course description
 This course will introduce a set of commonly used data analysis methods implemented in Python using Jupyter Notebooks. 

@@ -33,9 +33,9 @@ This class is designed to provide a low-barrier, low-stress introduction to prog
 
 * 10.31.2022 Intro to machine learning/pattern recognition (Mahalanobis Distance and Support Vector Machines) 
 
-* 11.07.2022 Non-parametric statistics (randomization testing and bootstrapping)
+* 11.07.2022 Entropy/Mutual Information/Kernel Density Estimation (KDE)
 
-* 11.14.2022 Entropy/Mutual Information/Kernel Density Estimation (KDE)
+* 11.14.2022 Classes, object oriented programming...
 
 * 11.21.2022 No class - fall break
 

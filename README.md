@@ -18,7 +18,7 @@ At the end of the course you should have a good working understanding of Python,
 Each week class time will be divided into an interactive lecture where we go over a topic and write some code together to demonstrate the functionality of a package (e.g. NumPy) or to learn an analysis technique (e.g. FFT). Then you will work in groups on a problem set related to the topics covered in the course.
 
 ## Grading
-This class is designed to provide a low-barrier, low-stress introduction to programming. You will get out of it what you put into it. My only requirement is that you show up each week, participate in class and during group work, and turn in a zip file with your problem-set notebooks at the end of the quarter. And you are always free to work on the problem sets in groups in and outside of class. Last: don't worry about making mistakes! There will be lots of those this quarter - many made by me - and that is normal and to be embraced as learning opportunities. 
+This class is designed to provide a low-barrier, low-stress introduction to programming. You will get out of it what you put into it. My only requirement is that you show up each week, participate in class and during group work, and turn in a zip file with your problem-set notebooks at the end of the quarter (due at the end of our 'final' time slot: Monday 12/05/2022 by 2:30PM). And you are always free to work on the problem sets in groups in and outside of class. Last: don't worry about making mistakes! There will be lots of those this quarter - many made by me - and that is normal and to be embraced as learning opportunities. 
 
 ## Topics (Approximate)
 * 09.26.2022 Intro to Python (iPython), Jupyter Notebooks (environment, magics, markdown), intro to basics of the language
